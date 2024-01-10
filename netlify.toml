@@ -1,0 +1,7 @@
+[build]
+  command = "npm run dev"
+  functions = "lambda"  # Jika Anda menggunakan fungsi serverless (Netlify Functions)
+
+[dev]
+  command = "npm run dev"
+  functions = "lambda"  # Jika Anda menggunakan fungsi serverless (Netlify Functions)
